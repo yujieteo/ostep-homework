@@ -25,3 +25,7 @@ I think it will take the same amount of time as Question 2, since SWITCH_ON_END 
 This is correct.
 
 Question 5: 
+I think it will be back to 7 again since IO runs first.
+I was right.
+
+Question 6: 
